@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GithubUserApp</string>
+    <string name="nama">NAMA</string>
+    <string name="detail">Detail</string>
+    <string name="nama2">NAMA</string>
+    <string name="todo">TODO</string>
+    <string name="test">test</string>
+    <string name="nama3">NAMA</string>
+</resources>
